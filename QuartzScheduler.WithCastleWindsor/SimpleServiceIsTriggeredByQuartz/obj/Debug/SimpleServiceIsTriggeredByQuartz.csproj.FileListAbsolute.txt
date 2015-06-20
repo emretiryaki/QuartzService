@@ -1,0 +1,48 @@
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe.config
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.exe
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Core.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Windsor.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\log4net.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Topshelf.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Core.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Windsor.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\log4net.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.csprojResolveAssemblyReference.cache
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe.config
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.pdb
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Core.dll
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Facilities.WcfIntegration.dll
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Windsor.dll
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\log4net.dll
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Topshelf.dll
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Topshelf.Log4Net.dll
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Core.xml
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Facilities.WcfIntegration.xml
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Windsor.xml
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\log4net.xml
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.exe
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.pdb
+F:\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.csprojResolveAssemblyReference.cache
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe.config
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\SimpleServiceIsTriggeredByQuartz.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Core.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Windsor.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\log4net.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Topshelf.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Core.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\Castle.Windsor.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\bin\Debug\log4net.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.csprojResolveAssemblyReference.cache
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.exe
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SimpleServiceIsTriggeredByQuartz\obj\Debug\SimpleServiceIsTriggeredByQuartz.pdb

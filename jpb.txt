@@ -1,0 +1,23 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <tem:AddAndScheduleJob>
+         <!--Optional:-->
+         <tem:jobType>OneWaySingleOutputJob</tem:jobType>
+         <!--Optional:-->
+         <tem:jobName>OneWaySingleOutputJob</tem:jobName>
+         <!--Optional:-->
+         <tem:jobGroupName>DEFAULT</tem:jobGroupName>
+         <!--Optional:-->
+         <tem:triggerName>OneWaySingleOutputJobTrigger</tem:triggerName>
+         <!--Optional:-->
+         <tem:triggerGroupName>DEFAULT</tem:triggerGroupName>
+         <!--Optional:-->
+         <tem:quickRepeatInterval>EveryMinute</tem:quickRepeatInterval>
+         <!--Optional:-->
+         <tem:intervalValue>1</tem:intervalValue>
+         <!--Optional:-->
+   
+      </tem:AddAndScheduleJob>
+   </soapenv:Body>
+</soapenv:Envelope>

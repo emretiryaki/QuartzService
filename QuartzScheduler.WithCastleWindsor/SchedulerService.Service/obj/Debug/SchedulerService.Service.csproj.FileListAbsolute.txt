@@ -1,0 +1,126 @@
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe.config
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe.config
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.csprojResolveAssemblyReference.cache
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.pdb
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.pdb
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.pdb
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.pdb
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.xml
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.exe
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe.config
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.exe
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe.config
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.exe
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.csprojResolveAssemblyReference.cache
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.Log4Net.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.csprojResolveAssemblyReference.cache
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe.config
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.exe
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.exe
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Service.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\SchedulerService.Contract.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Core.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Castle.Windsor.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Common.Logging.Log4Net1213.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\log4net.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.pdb
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\bin\Debug\Quartz.xml
+C:\Users\Emre Tiryaki\Desktop\quartz\QuartzScheduler.WithCastleWindsor\SchedulerService.Service\obj\Debug\SchedulerService.Service.csprojResolveAssemblyReference.cache

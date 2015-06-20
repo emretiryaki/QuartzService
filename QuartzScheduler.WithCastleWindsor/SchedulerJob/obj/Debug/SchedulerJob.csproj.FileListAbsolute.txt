@@ -1,0 +1,48 @@
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SchedulerJob.dll.config
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SchedulerJob.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SchedulerJob.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.Core.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Quartz.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Windsor.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Topshelf.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Core.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SimpleServiceIsTriggeredByQuartz.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.Core.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Quartz.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Quartz.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Windsor.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Core.xml
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\obj\Debug\SchedulerJob.csprojResolveAssemblyReference.cache
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\obj\Debug\SchedulerJob.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerJob\obj\Debug\SchedulerJob.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SchedulerJob.dll.config
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SchedulerJob.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SchedulerJob.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.Core.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Quartz.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SimpleServiceIsTriggeredByQuartz.exe
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Windsor.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Facilities.WcfIntegration.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Topshelf.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Core.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\SimpleServiceIsTriggeredByQuartz.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.Core.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Common.Logging.Core.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Quartz.pdb
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Quartz.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Windsor.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Facilities.WcfIntegration.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\bin\Debug\Castle.Core.xml
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\obj\Debug\SchedulerJob.csprojResolveAssemblyReference.cache
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\obj\Debug\SchedulerJob.dll
+F:\QuartzScheduler.WithCastleWindsor\SchedulerJob\obj\Debug\SchedulerJob.pdb

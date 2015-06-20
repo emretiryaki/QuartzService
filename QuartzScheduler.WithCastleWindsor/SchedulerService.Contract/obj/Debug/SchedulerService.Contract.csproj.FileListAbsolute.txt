@@ -1,0 +1,10 @@
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\bin\Debug\SchedulerService.Contract.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\bin\Debug\SchedulerService.Contract.pdb
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\obj\Debug\SchedulerService.Contract.csprojResolveAssemblyReference.cache
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\obj\Debug\SchedulerService.Contract.dll
+C:\Users\etiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\obj\Debug\SchedulerService.Contract.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\bin\Debug\SchedulerService.Contract.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\bin\Debug\SchedulerService.Contract.pdb
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\obj\Debug\SchedulerService.Contract.csprojResolveAssemblyReference.cache
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\obj\Debug\SchedulerService.Contract.dll
+C:\Users\Emre Tiryaki\Desktop\QuartzScheduler.WithCastleWindsor\SchedulerService.Contract\obj\Debug\SchedulerService.Contract.pdb
